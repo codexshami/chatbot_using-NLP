@@ -27,7 +27,7 @@ This is a rule-based **AI chatbot** built using **Natural Language Processing (N
 
 Install the required libraries with:
 
-```bash
+
 pip install nltk
 Then download the required NLTK datasets:
 
