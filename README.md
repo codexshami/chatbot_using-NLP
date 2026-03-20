@@ -80,7 +80,4 @@ python chatbot_nlp.py
 # - API integration
 # - Deploy as web chatbot
 
-# ---------------------------
-# 📄 License
-# ---------------------------
-# Open-source for learning purposes
+
