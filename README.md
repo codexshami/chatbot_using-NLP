@@ -1,83 +1,46 @@
 # 🤖 AI Chatbot Using NLP
 
-# A simple rule-based AI chatbot built using Natural Language Processing (NLP) techniques with NLTK.
-# It can handle greetings, internship-related queries, Python-related questions, and more.
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.6%2B-green.svg)](https://www.nltk.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# ---------------------------
-# 📌 Project Objective
-# ---------------------------
-# Task-3:
-# Build a chatbot using NLP libraries like NLTK or spaCy, capable of understanding and responding to user queries.
+A simple yet powerful **rule-based AI chatbot** built using Natural Language Processing (NLP) techniques with NLTK. This chatbot can handle greetings, internship-related queries, Python programming questions, and general conversations.
 
-# ---------------------------
-# 🧠 Features
-# ---------------------------
-# ✔️ Handles greetings and general conversations
-# ✔️ Answers internship-related queries
-# ✔️ Responds to Python and basic tech questions
-# ✔️ Uses NLP techniques:
-#    - Tokenization
-#    - Lemmatization
-#    - Intent Matching
-# ✔️ Simple command-line interface
-# ✔️ Easily extendable
+---
 
-# ---------------------------
-# 🛠 Requirements
-# ---------------------------
-pip install nltk
+## 📌 Project Objective
 
-python - <<EOF
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
-EOF
+**Task-3:** Build a chatbot using NLP libraries like NLTK or spaCy, capable of understanding and responding to user queries through natural language processing techniques.
 
-# ---------------------------
-# 🚀 How to Run
-# ---------------------------
-# 1. Clone or download this repository
-# 2. Navigate to project folder
-# 3. Run:
-python chatbot_nlp.py
+---
 
-# ---------------------------
-# 🧪 Sample Conversation
-# ---------------------------
-# 🤖 CODTECH Chatbot with NLP (type 'exit' to quit)
-# You: hi
-# Bot: Hello!
-#
-# You: what is python?
-# Bot: Python is a powerful, high-level programming language used in AI, data science, and more.
-#
-# You: when will i get my certificate?
-# Bot: You will receive your certificate on your internship end date.
-#
-# You: bye
-# Bot: Goodbye!
+## 🧠 Features
 
-# ---------------------------
-# 🧾 Internship Info Supported
-# ---------------------------
-# - When will I get my certificate?
-# - What is CODTECH?
-# - Who created you?
+### Core Capabilities
+- ✅ Handles greetings and general conversations
+- ✅ Answers internship-related queries (CODTECH specific)
+- ✅ Responds to Python programming questions
+- ✅ Answers basic tech and coding concepts
 
-# ---------------------------
-# 📦 File Structure
-# ---------------------------
-# chatbot_project/
-# ├── chatbot_nlp.py
-# ├── requirements.txt
-# └── README.md
+### NLP Techniques Used
+- **Tokenization** - Breaking text into words/sentences
+- **Lemmatization** - Reducing words to base form
+- **Intent Matching** - Pattern-based response matching
+- **Part-of-Speech Tagging** (optional enhancement)
 
-# ---------------------------
-# 🔧 Future Improvements
-# ---------------------------
-# - Add GUI (Tkinter / Streamlit)
-# - Add ML-based intent classification
-# - API integration
-# - Deploy as web chatbot
+### Additional Features
+- 💬 Simple command-line interface
+- 🔧 Easily extendable with new intents
+- 🎲 Random response variations for natural feel
+- 📝 Case-insensitive pattern matching
+- 🚪 Graceful exit handling
 
+---
 
+## 🛠 Requirements
+
+### Prerequisites
+- Python 3.7 or higher
+- pip package manager
+
+### Dependencies
