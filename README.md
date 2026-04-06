@@ -45,3 +45,11 @@ A simple yet powerful **rule-based AI chatbot** built using Natural Language Pro
 
 ### Dependencies
 nltk==3.8.1
+
+
+### Installation
+
+1. **Clone or download this repository**
+```bash
+git clone https://github.com/yourusername/chatbot-nlp-project.git
+cd chatbot-nlp-project
