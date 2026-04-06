@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Using NLP
+#  AI Chatbot Using NLP
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-3.6%2B-green.svg)](https://www.nltk.org/)
@@ -8,13 +8,13 @@ A simple yet powerful **rule-based AI chatbot** built using Natural Language Pro
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 **Task-3:** Build a chatbot using NLP libraries like NLTK or spaCy, capable of understanding and responding to user queries through natural language processing techniques.
 
 ---
 
-## 🧠 Features
+##  Features
 
 ### Core Capabilities
 - ✅ Handles greetings and general conversations
@@ -29,15 +29,15 @@ A simple yet powerful **rule-based AI chatbot** built using Natural Language Pro
 - **Part-of-Speech Tagging** (optional enhancement)
 
 ### Additional Features
-- 💬 Simple command-line interface
-- 🔧 Easily extendable with new intents
-- 🎲 Random response variations for natural feel
-- 📝 Case-insensitive pattern matching
-- 🚪 Graceful exit handling
+-  Simple command-line interface
+-  Easily extendable with new intents
+-  Random response variations for natural feel
+-  Case-insensitive pattern matching
+-  Graceful exit handling
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -59,16 +59,16 @@ cd chatbot-nlp-project
 **Sample conversation
 
 ======================================================================
-🤖 CODTECH NLP CHATBOT - INTERNSHIP PROJECT
+ CODTECH NLP CHATBOT - INTERNSHIP PROJECT
 ======================================================================
 
-📚 I can help you with:
+ I can help you with:
    • Python programming concepts
    • CODTECH internship information
    • General questions and jokes
    • Tech career advice
 
-💡 Type 'quit' or 'exit' to end the conversation.
+ Type 'quit' or 'exit' to end the conversation.
 ======================================================================
 
 You: hi
