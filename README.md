@@ -44,3 +44,4 @@ A simple yet powerful **rule-based AI chatbot** built using Natural Language Pro
 - pip package manager
 
 ### Dependencies
+nltk==3.8.1
