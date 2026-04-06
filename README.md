@@ -53,3 +53,41 @@ nltk==3.8.1
 ```bash
 git clone https://github.com/yourusername/chatbot-nlp-project.git
 cd chatbot-nlp-project
+
+'''
+
+**Sample conversation
+
+======================================================================
+🤖 CODTECH NLP CHATBOT - INTERNSHIP PROJECT
+======================================================================
+
+📚 I can help you with:
+   • Python programming concepts
+   • CODTECH internship information
+   • General questions and jokes
+   • Tech career advice
+
+💡 Type 'quit' or 'exit' to end the conversation.
+======================================================================
+
+You: hi
+Bot: Hello! 👋 How can I help you today?
+
+You: what is your name?
+Bot: I'm CODTECH Chatbot, your AI assistant! 🤖
+
+You: what is python?
+Bot: Python is a high-level, interpreted programming language known for its simplicity and readability! 🐍
+
+You: when will I get my certificate?
+Bot: You will receive your certificate on your internship end date after successful completion! 📜
+
+You: tell me a joke
+Bot: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
+
+You: thank you
+Bot: You're very welcome! 😊 Happy to help!
+
+You: bye
+Bot: Goodbye! 👋 Come back anytime!
